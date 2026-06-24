@@ -52,3 +52,7 @@ PowerShell helpers: `scripts/build.ps1`, `scripts/run-tests.ps1`.
 - Set `WS_CONTROLLER_JWT_SECRET` to a strong random value.
 - `ControllerSecurityPolicy` controls JWT TTL, bcrypt cost, and HTTPS enforcement flag.
 - RBAC roles: `admin`, `operator`, `viewer`.
+
+## License
+
+Apache-2.0. See [LICENSE](LICENSE).
