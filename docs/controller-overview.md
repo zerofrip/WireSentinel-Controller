@@ -1,4 +1,4 @@
-# Phase 9 — WireSentinel Controller
+# WireSentinel Controller Overview
 
 This repository implements the WireSentinel management controller:
 
